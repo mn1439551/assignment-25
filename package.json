@@ -1,0 +1,22 @@
+{
+  "name": "assignment-25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "clear && node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mn1439551/assignment-25.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mn1439551/assignment-25/issues"
+  },
+  "homepage": "https://github.com/mn1439551/assignment-25#readme"
+}
